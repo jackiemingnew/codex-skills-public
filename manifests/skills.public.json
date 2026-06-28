@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "policy": {
+    "repoVisibility": "public",
+    "copySkillBodies": false,
+    "purpose": "Public index only"
+  },
+  "repositories": {
+    "public": "codex-skills-public",
+    "private": "codex-skills-private"
+  },
+  "categories": {
+    "private_only": [
+      "personal persona skills",
+      "private business workflow skills",
+      "private self-distillation skills",
+      "local operations skills"
+    ],
+    "third_party_source_only": [
+      "mattpocock/skills",
+      "ui-ux-pro-max"
+    ],
+    "system_excluded": [
+      "Codex bundled system skills"
+    ]
+  }
+}

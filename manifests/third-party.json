@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "skills": [
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "install": "npx skills@latest add mattpocock/skills -g -a codex --full-depth"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "install": "npm install -g ui-ux-pro-max-cli && uipro init --ai codex --global"
+    }
+  ]
+}
+
