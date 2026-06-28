@@ -11,10 +11,39 @@
   },
   "categories": {
     "private_only": [
-      "personal persona skills",
-      "private business workflow skills",
-      "private self-distillation skills",
-      "local operations skills"
+      "personal persona and digital-self skills",
+      "local Codex usage monitor"
+    ],
+    "public_eligible_local": [
+      "banner-design",
+      "brand",
+      "dbs",
+      "dbs-action",
+      "dbs-agent-migration",
+      "dbs-ai-check",
+      "dbs-benchmark",
+      "dbs-chatroom",
+      "dbs-chatroom-austrian",
+      "dbs-content",
+      "dbs-content-system",
+      "dbs-decision",
+      "dbs-deconstruct",
+      "dbs-diagnosis",
+      "dbs-goal",
+      "dbs-good-question",
+      "dbs-hook",
+      "dbs-learning",
+      "dbs-report",
+      "dbs-restore",
+      "dbs-save",
+      "dbs-slowisfast",
+      "dbs-xhs-title",
+      "design",
+      "design-system",
+      "hatch-pet",
+      "immortal-skill",
+      "slides",
+      "ui-styling"
     ],
     "third_party_source_only": [
       "mattpocock/skills",

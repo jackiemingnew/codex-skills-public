@@ -3,8 +3,9 @@
 Public index for Jackie's Codex skill setup.
 
 This repository intentionally does **not** store skill source folders. It only
-stores category indexes, source notes, and restore instructions. Private and
-personal skills live in the private repository.
+stores category indexes, source notes, and restore instructions. Private-only
+skills and public-eligible local skills are currently staged in the private
+management repository until public source publishing is explicitly enabled.
 
 ## Repositories
 
@@ -30,7 +31,7 @@ cd ~/Documents/codex-skills-private
 This public repo must not contain:
 
 - `skills/` source directories
-- personal persona materials or their concrete skill names
-- private business workflow contents or concrete skill names
+- personal persona or digital-self materials
+- local Codex usage monitor internals
 - local tokens, cookies, or API keys
 - raw or redacted chat corpus paths

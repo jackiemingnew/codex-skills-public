@@ -1,17 +1,17 @@
 # Skill Categories
 
 This public catalog lists categories only. Skill bodies live either in the
-private repository or upstream third-party repositories.
+private management repository or upstream third-party repositories.
 
 ## Private Only
 
-- Personal persona and local privacy skills
-- Private business workflow skills
-- Self-distillation tooling
-- Local operations skills
+- Personal persona and digital-self skills
+- Local Codex usage monitoring
 
-## Private Self-Authored Tools
+## Public-Eligible Local Skills
 
+- dontbesilent workflows
+- Digital immortality tooling
 - Design and creation workflows
 
 ## Third Party Source Only
