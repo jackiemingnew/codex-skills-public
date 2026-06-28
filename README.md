@@ -1,5 +1,7 @@
 # Codex Skills Public Catalog
 
+[中文说明](README.zh-CN.md)
+
 Public index for Jackie's Codex skill setup.
 
 This repository intentionally does **not** store skill source folders. It only
@@ -34,6 +36,17 @@ private-only:
 | dontbesilent workflows | `dbs`, `dbs-*` | Business diagnosis, content, goals, decisions, benchmarking, reports, and learning workflows |
 | Digital immortality tooling | `immortal-skill` | Persona/distillation framework and reusable templates |
 | Design and creation | `design`, `design-system`, `brand`, `banner-design`, `ui-styling`, `slides`, `hatch-pet` | Brand, UI, slides, banners, sprites, and visual production |
+
+## Use-Case Categories
+
+This is the day-to-day entry view inspired by the four-bucket workflow:
+
+| Use case | Meaning | Representative skills |
+| --- | --- | --- |
+| `write` | Writing, editing, content, teaching, narrative, and messaging | `dbs-content`, `dbs-content-system`, `dbs-hook`, `dbs-xhs-title`, `dbs-ai-check`, `brand`, `slides`, `teach`, `writing-great-skills` |
+| `draw` | Design, visuals, UI, banners, slides, and generated assets | `design`, `design-system`, `banner-design`, `ui-styling`, `hatch-pet`, `ui-ux-pro-max`, `imagegen` |
+| `info` | Information lookup, diagnosis, architecture, domain understanding, and analysis | `ask-matt`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `dbs-diagnosis`, `dbs-benchmark`, `dbs-deconstruct`, `openai-docs` |
+| `pm` | Planning, project management, execution, state, PRD, issues, triage, and handoff | `dbs`, `dbs-action`, `dbs-goal`, `dbs-good-question`, `dbs-decision`, `dbs-save`, `dbs-restore`, `dbs-report`, `to-prd`, `to-issues`, `triage`, `tdd`, `implement`, `handoff` |
 
 ## Third-Party Source-Only Skills
 

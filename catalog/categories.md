@@ -14,6 +14,13 @@ private management repository or upstream third-party repositories.
 - Digital immortality tooling
 - Design and creation workflows
 
+## Use-Case Categories
+
+- `write` - writing, editing, content, teaching, narrative, and messaging
+- `draw` - design, visuals, UI, banners, slides, and generated assets
+- `info` - information lookup, diagnosis, architecture, domain understanding, and analysis
+- `pm` - planning, project management, execution, state, PRD, issues, triage, and handoff
+
 ## Third Party Source Only
 
 - Matt Pocock engineering workflow skills

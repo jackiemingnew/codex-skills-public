@@ -51,6 +51,55 @@
     ],
     "system_excluded": [
       "Codex bundled system skills"
-    ]
+    ],
+    "use_cases": {
+      "write": [
+        "dbs-content",
+        "dbs-content-system",
+        "dbs-hook",
+        "dbs-xhs-title",
+        "dbs-ai-check",
+        "brand",
+        "slides",
+        "teach",
+        "writing-great-skills"
+      ],
+      "draw": [
+        "design",
+        "design-system",
+        "banner-design",
+        "ui-styling",
+        "hatch-pet",
+        "ui-ux-pro-max",
+        "imagegen"
+      ],
+      "info": [
+        "ask-matt",
+        "diagnosing-bugs",
+        "domain-modeling",
+        "codebase-design",
+        "improve-codebase-architecture",
+        "dbs-diagnosis",
+        "dbs-benchmark",
+        "dbs-deconstruct",
+        "openai-docs"
+      ],
+      "pm": [
+        "dbs",
+        "dbs-action",
+        "dbs-goal",
+        "dbs-good-question",
+        "dbs-decision",
+        "dbs-save",
+        "dbs-restore",
+        "dbs-report",
+        "to-prd",
+        "to-issues",
+        "triage",
+        "tdd",
+        "implement",
+        "handoff"
+      ]
+    }
   }
 }
