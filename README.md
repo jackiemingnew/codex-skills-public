@@ -12,6 +12,46 @@ management repository until public source publishing is explicitly enabled.
 - Public catalog: `codex-skills-public`
 - Private source: `codex-skills-private`
 
+## What This Repository Tracks
+
+This repository has no `skills/` directory. It tracks installable sources,
+public-safe categories, and restore guidance.
+
+| Group | Storage | Purpose |
+| --- | --- | --- |
+| Public-eligible local skills | Indexed here, source staged privately | Local/self-authored skills that can potentially be published later |
+| Third-party skills | Source and install command only | Reinstall from upstream projects |
+| Codex system skills | Mentioned only | Managed by Codex, not synced |
+| Private-only skills | Category only, no concrete names | Personal/digital-self and local monitor materials stay private |
+
+## Public-Eligible Local Skills
+
+These skill bodies are not published here yet, but they are not classified as
+private-only:
+
+| Category | Skills | Purpose |
+| --- | --- | --- |
+| dontbesilent workflows | `dbs`, `dbs-*` | Business diagnosis, content, goals, decisions, benchmarking, reports, and learning workflows |
+| Digital immortality tooling | `immortal-skill` | Persona/distillation framework and reusable templates |
+| Design and creation | `design`, `design-system`, `brand`, `banner-design`, `ui-styling`, `slides`, `hatch-pet` | Brand, UI, slides, banners, sprites, and visual production |
+
+## Third-Party Source-Only Skills
+
+| Source | Skills | Purpose |
+| --- | --- | --- |
+| `mattpocock/skills` | `setup-matt-pocock-skills`, `ask-matt`, `grill-with-docs`, `grill-me`, `grilling`, `to-prd`, `to-issues`, `triage`, `tdd`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `prototype`, `implement`, `resolving-merge-conflicts`, `handoff`, `teach`, `writing-great-skills` | Engineering workflows, TDD, architecture, PRDs, issues, triage, handoffs, and teaching |
+| `ui-ux-pro-max` | `ui-ux-pro-max` | Searchable UI/UX design intelligence |
+
+## Codex System Skills
+
+These are bundled with Codex and are not synced by these repositories:
+
+- `imagegen`
+- `openai-docs`
+- `plugin-creator`
+- `skill-creator`
+- `skill-installer`
+
 ## Restore Overview
 
 1. Clone this public catalog.
