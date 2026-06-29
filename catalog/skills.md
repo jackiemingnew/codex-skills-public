@@ -47,15 +47,33 @@ source folders are not published in this index-only repository yet:
 These are tracked by install source only:
 
 - `ask-matt`
+- `api-and-interface-design`
+- `browser-testing-with-devtools`
+- `ci-cd-and-automation`
 - `codebase-design`
+- `code-review-and-quality`
+- `code-simplification`
+- `context-engineering`
+- `debugging-and-error-recovery`
+- `deprecation-and-migration`
 - `diagnosing-bugs`
+- `documentation-and-adrs`
+- `doubt-driven-development`
 - `domain-modeling`
+- `frontend-ui-engineering`
+- `git-workflow-and-versioning`
 - `grill-me`
 - `grill-with-docs`
 - `grilling`
 - `handoff`
+- `idea-refine`
 - `implement`
 - `improve-codebase-architecture`
+- `incremental-implementation`
+- `interview-me`
+- `observability-and-instrumentation`
+- `performance-optimization`
+- `planning-and-task-breakdown`
 - `prototype`
 - `ponytail`
 - `ponytail-audit`
@@ -64,13 +82,19 @@ These are tracked by install source only:
 - `ponytail-help`
 - `ponytail-review`
 - `resolving-merge-conflicts`
+- `security-and-hardening`
 - `setup-matt-pocock-skills`
+- `shipping-and-launch`
+- `source-driven-development`
+- `spec-driven-development`
 - `tdd`
 - `teach`
+- `test-driven-development`
 - `to-issues`
 - `to-prd`
 - `triage`
 - `ui-ux-pro-max`
+- `using-agent-skills`
 - `writing-great-skills`
 
 ## System Skills

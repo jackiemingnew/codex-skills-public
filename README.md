@@ -43,10 +43,10 @@ This is the day-to-day entry view inspired by the four-bucket workflow:
 
 | Use case | Meaning | Representative skills |
 | --- | --- | --- |
-| `write` | Writing, editing, content, teaching, narrative, and messaging | `dbs-content`, `dbs-content-system`, `dbs-hook`, `dbs-xhs-title`, `dbs-ai-check`, `brand`, `slides`, `teach`, `writing-great-skills` |
-| `draw` | Design, visuals, UI, banners, slides, and generated assets | `design`, `design-system`, `banner-design`, `ui-styling`, `hatch-pet`, `ui-ux-pro-max`, `imagegen` |
-| `info` | Information lookup, diagnosis, architecture, domain understanding, and analysis | `ask-matt`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `ponytail-review`, `ponytail-audit`, `ponytail-debt`, `dbs-diagnosis`, `dbs-benchmark`, `dbs-deconstruct`, `openai-docs` |
-| `pm` | Planning, project management, execution, state, PRD, issues, triage, and handoff | `dbs`, `dbs-action`, `dbs-goal`, `dbs-good-question`, `dbs-decision`, `dbs-save`, `dbs-restore`, `dbs-report`, `ponytail`, `ponytail-review`, `to-prd`, `to-issues`, `triage`, `tdd`, `implement`, `handoff` |
+| `write` | Writing, editing, content, teaching, narrative, and messaging | `interview-me`, `idea-refine`, `spec-driven-development`, `documentation-and-adrs`, `dbs-content`, `dbs-content-system`, `dbs-hook`, `dbs-xhs-title`, `dbs-ai-check`, `brand`, `slides`, `teach`, `writing-great-skills` |
+| `draw` | Design, visuals, UI, banners, slides, and generated assets | `frontend-ui-engineering`, `design`, `design-system`, `banner-design`, `ui-styling`, `hatch-pet`, `ui-ux-pro-max`, `imagegen` |
+| `info` | Information lookup, diagnosis, architecture, domain understanding, and analysis | `using-agent-skills`, `context-engineering`, `source-driven-development`, `doubt-driven-development`, `browser-testing-with-devtools`, `debugging-and-error-recovery`, `code-review-and-quality`, `code-simplification`, `security-and-hardening`, `performance-optimization`, `observability-and-instrumentation`, `ask-matt`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `ponytail-review`, `ponytail-audit`, `ponytail-debt`, `dbs-diagnosis`, `dbs-benchmark`, `dbs-deconstruct`, `openai-docs` |
+| `pm` | Planning, project management, execution, state, PRD, issues, triage, and handoff | `planning-and-task-breakdown`, `incremental-implementation`, `test-driven-development`, `api-and-interface-design`, `git-workflow-and-versioning`, `ci-cd-and-automation`, `deprecation-and-migration`, `shipping-and-launch`, `dbs`, `dbs-action`, `dbs-goal`, `dbs-good-question`, `dbs-decision`, `dbs-save`, `dbs-restore`, `dbs-report`, `ponytail`, `ponytail-review`, `to-prd`, `to-issues`, `triage`, `tdd`, `implement`, `handoff` |
 
 ## Third-Party Source-Only Skills
 
@@ -55,6 +55,7 @@ This is the day-to-day entry view inspired by the four-bucket workflow:
 | `mattpocock/skills` | `setup-matt-pocock-skills`, `ask-matt`, `grill-with-docs`, `grill-me`, `grilling`, `to-prd`, `to-issues`, `triage`, `tdd`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `prototype`, `implement`, `resolving-merge-conflicts`, `handoff`, `teach`, `writing-great-skills` | Engineering workflows, TDD, architecture, PRDs, issues, triage, handoffs, and teaching |
 | `ui-ux-pro-max` | `ui-ux-pro-max` | Searchable UI/UX design intelligence |
 | `DietrichGebert/ponytail` | `ponytail`, `ponytail-review`, `ponytail-audit`, `ponytail-debt`, `ponytail-gain`, `ponytail-help` | Codex plugin for YAGNI, stdlib-first, smallest-correct coding and over-engineering review |
+| `addyosmani/agent-skills` | 24 lifecycle skills from `using-agent-skills` through `shipping-and-launch` | Production-grade engineering discipline: spec, plan, build, test, review, security, performance, observability, and ship |
 
 ## Codex System Skills
 

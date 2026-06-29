@@ -48,7 +48,8 @@
     "third_party_source_only": [
       "mattpocock/skills",
       "ui-ux-pro-max",
-      "DietrichGebert/ponytail"
+      "DietrichGebert/ponytail",
+      "addyosmani/agent-skills"
     ],
     "system_excluded": [
       "Codex bundled system skills"
@@ -60,6 +61,10 @@
         "dbs-hook",
         "dbs-xhs-title",
         "dbs-ai-check",
+        "interview-me",
+        "idea-refine",
+        "spec-driven-development",
+        "documentation-and-adrs",
         "brand",
         "slides",
         "teach",
@@ -70,11 +75,23 @@
         "design-system",
         "banner-design",
         "ui-styling",
+        "frontend-ui-engineering",
         "hatch-pet",
         "ui-ux-pro-max",
         "imagegen"
       ],
       "info": [
+        "using-agent-skills",
+        "context-engineering",
+        "source-driven-development",
+        "doubt-driven-development",
+        "browser-testing-with-devtools",
+        "debugging-and-error-recovery",
+        "code-review-and-quality",
+        "code-simplification",
+        "security-and-hardening",
+        "performance-optimization",
+        "observability-and-instrumentation",
         "ask-matt",
         "diagnosing-bugs",
         "domain-modeling",
@@ -89,6 +106,14 @@
         "openai-docs"
       ],
       "pm": [
+        "planning-and-task-breakdown",
+        "incremental-implementation",
+        "test-driven-development",
+        "api-and-interface-design",
+        "git-workflow-and-versioning",
+        "ci-cd-and-automation",
+        "deprecation-and-migration",
+        "shipping-and-launch",
         "dbs",
         "dbs-action",
         "dbs-goal",

@@ -26,6 +26,7 @@ private management repository or upstream third-party repositories.
 - Matt Pocock engineering workflow skills
 - UI/UX Pro Max design intelligence
 - Ponytail minimal-code engineering plugin
+- Addy Osmani production engineering lifecycle skills
 
 ## Excluded
 

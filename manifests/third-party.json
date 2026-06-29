@@ -15,6 +15,11 @@
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "install": "codex plugin marketplace add DietrichGebert/ponytail && codex plugin add ponytail@ponytail"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "install": "python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo addyosmani/agent-skills --path skills/api-and-interface-design skills/browser-testing-with-devtools skills/ci-cd-and-automation skills/code-review-and-quality skills/code-simplification skills/context-engineering skills/debugging-and-error-recovery skills/deprecation-and-migration skills/documentation-and-adrs skills/doubt-driven-development skills/frontend-ui-engineering skills/git-workflow-and-versioning skills/idea-refine skills/incremental-implementation skills/interview-me skills/observability-and-instrumentation skills/performance-optimization skills/planning-and-task-breakdown skills/security-and-hardening skills/shipping-and-launch skills/source-driven-development skills/spec-driven-development skills/test-driven-development skills/using-agent-skills"
     }
   ]
 }
