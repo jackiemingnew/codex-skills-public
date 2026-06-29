@@ -45,8 +45,8 @@ This is the day-to-day entry view inspired by the four-bucket workflow:
 | --- | --- | --- |
 | `write` | Writing, editing, content, teaching, narrative, and messaging | `dbs-content`, `dbs-content-system`, `dbs-hook`, `dbs-xhs-title`, `dbs-ai-check`, `brand`, `slides`, `teach`, `writing-great-skills` |
 | `draw` | Design, visuals, UI, banners, slides, and generated assets | `design`, `design-system`, `banner-design`, `ui-styling`, `hatch-pet`, `ui-ux-pro-max`, `imagegen` |
-| `info` | Information lookup, diagnosis, architecture, domain understanding, and analysis | `ask-matt`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `dbs-diagnosis`, `dbs-benchmark`, `dbs-deconstruct`, `openai-docs` |
-| `pm` | Planning, project management, execution, state, PRD, issues, triage, and handoff | `dbs`, `dbs-action`, `dbs-goal`, `dbs-good-question`, `dbs-decision`, `dbs-save`, `dbs-restore`, `dbs-report`, `to-prd`, `to-issues`, `triage`, `tdd`, `implement`, `handoff` |
+| `info` | Information lookup, diagnosis, architecture, domain understanding, and analysis | `ask-matt`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `ponytail-review`, `ponytail-audit`, `ponytail-debt`, `dbs-diagnosis`, `dbs-benchmark`, `dbs-deconstruct`, `openai-docs` |
+| `pm` | Planning, project management, execution, state, PRD, issues, triage, and handoff | `dbs`, `dbs-action`, `dbs-goal`, `dbs-good-question`, `dbs-decision`, `dbs-save`, `dbs-restore`, `dbs-report`, `ponytail`, `ponytail-review`, `to-prd`, `to-issues`, `triage`, `tdd`, `implement`, `handoff` |
 
 ## Third-Party Source-Only Skills
 
@@ -54,6 +54,7 @@ This is the day-to-day entry view inspired by the four-bucket workflow:
 | --- | --- | --- |
 | `mattpocock/skills` | `setup-matt-pocock-skills`, `ask-matt`, `grill-with-docs`, `grill-me`, `grilling`, `to-prd`, `to-issues`, `triage`, `tdd`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `prototype`, `implement`, `resolving-merge-conflicts`, `handoff`, `teach`, `writing-great-skills` | Engineering workflows, TDD, architecture, PRDs, issues, triage, handoffs, and teaching |
 | `ui-ux-pro-max` | `ui-ux-pro-max` | Searchable UI/UX design intelligence |
+| `DietrichGebert/ponytail` | `ponytail`, `ponytail-review`, `ponytail-audit`, `ponytail-debt`, `ponytail-gain`, `ponytail-help` | Codex plugin for YAGNI, stdlib-first, smallest-correct coding and over-engineering review |
 
 ## Codex System Skills
 

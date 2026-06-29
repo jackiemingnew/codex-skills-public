@@ -57,6 +57,12 @@ These are tracked by install source only:
 - `implement`
 - `improve-codebase-architecture`
 - `prototype`
+- `ponytail`
+- `ponytail-audit`
+- `ponytail-debt`
+- `ponytail-gain`
+- `ponytail-help`
+- `ponytail-review`
 - `resolving-merge-conflicts`
 - `setup-matt-pocock-skills`
 - `tdd`

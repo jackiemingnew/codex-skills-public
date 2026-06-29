@@ -18,13 +18,14 @@ private management repository or upstream third-party repositories.
 
 - `write` - writing, editing, content, teaching, narrative, and messaging
 - `draw` - design, visuals, UI, banners, slides, and generated assets
-- `info` - information lookup, diagnosis, architecture, domain understanding, and analysis
-- `pm` - planning, project management, execution, state, PRD, issues, triage, and handoff
+- `info` - information lookup, diagnosis, architecture, domain understanding, over-engineering review, and analysis
+- `pm` - planning, project management, execution, state, PRD, issues, triage, handoff, and smallest-correct implementation
 
 ## Third Party Source Only
 
 - Matt Pocock engineering workflow skills
 - UI/UX Pro Max design intelligence
+- Ponytail minimal-code engineering plugin
 
 ## Excluded
 

@@ -10,7 +10,11 @@
       "name": "ui-ux-pro-max",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "install": "npm install -g ui-ux-pro-max-cli && uipro init --ai codex --global"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "install": "codex plugin marketplace add DietrichGebert/ponytail && codex plugin add ponytail@ponytail"
     }
   ]
 }
-

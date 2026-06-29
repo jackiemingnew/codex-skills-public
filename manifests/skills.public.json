@@ -47,7 +47,8 @@
     ],
     "third_party_source_only": [
       "mattpocock/skills",
-      "ui-ux-pro-max"
+      "ui-ux-pro-max",
+      "DietrichGebert/ponytail"
     ],
     "system_excluded": [
       "Codex bundled system skills"
@@ -79,6 +80,9 @@
         "domain-modeling",
         "codebase-design",
         "improve-codebase-architecture",
+        "ponytail-review",
+        "ponytail-audit",
+        "ponytail-debt",
         "dbs-diagnosis",
         "dbs-benchmark",
         "dbs-deconstruct",
@@ -93,6 +97,8 @@
         "dbs-save",
         "dbs-restore",
         "dbs-report",
+        "ponytail",
+        "ponytail-review",
         "to-prd",
         "to-issues",
         "triage",

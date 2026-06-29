@@ -23,8 +23,18 @@ npm install -g ui-ux-pro-max-cli
 uipro init --ai codex --global
 ```
 
+## Ponytail
+
+- Source: <https://github.com/DietrichGebert/ponytail>
+- Purpose: Codex plugin for YAGNI, standard-library-first, smallest-correct
+  implementation, and over-engineering review.
+
+```bash
+codex plugin marketplace add DietrichGebert/ponytail
+codex plugin add ponytail@ponytail
+```
+
 ## Codex System Skills
 
 System skills such as `imagegen`, `openai-docs`, `skill-installer`,
 `skill-creator`, and `plugin-creator` are bundled with Codex and are not synced.
-

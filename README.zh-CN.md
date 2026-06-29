@@ -40,8 +40,8 @@
 | --- | --- | --- |
 | `write` | 写作、改稿、内容、教学、叙事、表达 | `dbs-content`, `dbs-content-system`, `dbs-hook`, `dbs-xhs-title`, `dbs-ai-check`, `brand`, `slides`, `teach`, `writing-great-skills` |
 | `draw` | 设计、视觉、UI、Banner、幻灯片、生成资产 | `design`, `design-system`, `banner-design`, `ui-styling`, `hatch-pet`, `ui-ux-pro-max`, `imagegen` |
-| `info` | 查询、诊断、架构、领域理解、分析 | `ask-matt`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `dbs-diagnosis`, `dbs-benchmark`, `dbs-deconstruct`, `openai-docs` |
-| `pm` | 计划、项目管理、执行、状态、PRD、issue、triage、handoff | `dbs`, `dbs-action`, `dbs-goal`, `dbs-good-question`, `dbs-decision`, `dbs-save`, `dbs-restore`, `dbs-report`, `to-prd`, `to-issues`, `triage`, `tdd`, `implement`, `handoff` |
+| `info` | 查询、诊断、架构、领域理解、分析 | `ask-matt`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `ponytail-review`, `ponytail-audit`, `ponytail-debt`, `dbs-diagnosis`, `dbs-benchmark`, `dbs-deconstruct`, `openai-docs` |
+| `pm` | 计划、项目管理、执行、状态、PRD、issue、triage、handoff | `dbs`, `dbs-action`, `dbs-goal`, `dbs-good-question`, `dbs-decision`, `dbs-save`, `dbs-restore`, `dbs-report`, `ponytail`, `ponytail-review`, `to-prd`, `to-issues`, `triage`, `tdd`, `implement`, `handoff` |
 
 ## 第三方来源
 
@@ -49,6 +49,7 @@
 | --- | --- | --- |
 | `mattpocock/skills` | `setup-matt-pocock-skills`, `ask-matt`, `grill-with-docs`, `grill-me`, `grilling`, `to-prd`, `to-issues`, `triage`, `tdd`, `diagnosing-bugs`, `domain-modeling`, `codebase-design`, `improve-codebase-architecture`, `prototype`, `implement`, `resolving-merge-conflicts`, `handoff`, `teach`, `writing-great-skills` | 工程工作流、TDD、架构、PRD、issue、triage、handoff 和教学 |
 | `ui-ux-pro-max` | `ui-ux-pro-max` | 可搜索的 UI/UX 设计知识库 |
+| `DietrichGebert/ponytail` | `ponytail`, `ponytail-review`, `ponytail-audit`, `ponytail-debt`, `ponytail-gain`, `ponytail-help` | Codex 插件：YAGNI、标准库优先、最小正确实现和过度工程审查 |
 
 ## Codex 系统 Skill
 
